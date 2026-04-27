@@ -43,7 +43,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Vary",
@@ -84,7 +88,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         }
       ],
       "EndpointProperties": [
@@ -125,7 +133,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Vary",
@@ -180,7 +192,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Vary",
@@ -229,7 +245,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         }
       ],
       "EndpointProperties": [
@@ -278,7 +298,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Vary",

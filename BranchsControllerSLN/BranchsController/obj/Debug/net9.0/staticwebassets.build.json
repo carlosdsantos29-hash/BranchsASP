@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "e4D3ZpUp2b1gqzEaqPRBAbn2I1SV6mWgA1rxnK6Eydo=",
+=======
+  "Hash": "Q+WBWAqLBqQZDf7G34CmwaN0rc0tNaYj1kLRuYssaWU=",
+>>>>>>> feat/Estado
   "Source": "BranchsController",
   "BasePath": "_content/BranchsController",
   "Mode": "Default",
@@ -2752,7 +2756,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -2805,7 +2813,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -2842,7 +2854,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -2889,7 +2905,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -2942,7 +2962,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -2979,7 +3003,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -3026,7 +3054,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -3087,7 +3119,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -3132,7 +3168,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -3187,7 +3227,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -3248,7 +3292,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
@@ -3293,7 +3341,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Mon, 27 Apr 2026 19:28:56 GMT"
+=======
+          "Value": "Mon, 27 Apr 2026 19:32:49 GMT"
+>>>>>>> feat/Estado
         },
         {
           "Name": "Cache-Control",
