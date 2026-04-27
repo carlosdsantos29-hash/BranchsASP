@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BranchsController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15c4ad6a785b6c344173ccd79df7a3e75c6d8c2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a622df773082c3b2fe21c4acb96b85aa930f8da3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BranchsController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BranchsController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
