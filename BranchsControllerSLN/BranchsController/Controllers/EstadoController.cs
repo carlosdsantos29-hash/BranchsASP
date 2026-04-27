@@ -8,5 +8,9 @@ namespace BranchsController.Controllers
         {
             return View();
         }
+        public IActionResult EstadoDetalhes()
+        {
+            return View();
+        }
     }
 }

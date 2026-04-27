@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|c:\\users\\tarde.cetafest\\documents\\branchsasp\\branchscontrollersln\\branchscontroller\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|solutionrelative:branchscontroller\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|c:\\users\\tarde.cetafest\\documents\\branchsasp\\branchscontrollersln\\branchscontroller\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|solutionrelative:branchscontroller\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|c:\\users\\tarde.cetafest\\documents\\branchsasp\\branchscontrollersln\\branchscontroller\\views\\estado\\estadodetalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|solutionrelative:branchscontroller\\views\\estado\\estadodetalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|c:\\users\\tarde.cetafest\\documents\\branchsasp\\branchscontrollersln\\branchscontroller\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|solutionrelative:branchscontroller\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "EstadoDetalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Estado\\EstadoDetalhes.cshtml",
+              "RelativeDocumentMoniker": "BranchsController\\Views\\Estado\\EstadoDetalhes.cshtml",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Estado\\EstadoDetalhes.cshtml",
+              "RelativeToolTip": "BranchsController\\Views\\Estado\\EstadoDetalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T19:40:21.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Estado\\Index.cshtml",
               "RelativeDocumentMoniker": "BranchsController\\Views\\Estado\\Index.cshtml",
               "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Estado\\Index.cshtml",
               "RelativeToolTip": "BranchsController\\Views\\Estado\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-27T18:56:25.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EstadoController.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Controllers\\EstadoController.cs",
               "RelativeDocumentMoniker": "BranchsController\\Controllers\\EstadoController.cs",
               "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Controllers\\EstadoController.cs",
               "RelativeToolTip": "BranchsController\\Controllers\\EstadoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T18:48:52.204Z",
               "EditorCaption": ""
