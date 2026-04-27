@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|c:\\users\\tarde.cetafest\\documents\\branchsasp\\branchscontrollersln\\branchscontroller\\controllers\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|solutionrelative:branchscontroller\\controllers\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|c:\\users\\tarde.cetafest\\documents\\branchsasp\\branchscontrollersln\\branchscontroller\\views\\pais\\paisdetalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|solutionrelative:branchscontroller\\views\\pais\\paisdetalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|c:\\users\\tarde.cetafest\\documents\\branchsasp\\branchscontrollersln\\branchscontroller\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|solutionrelative:branchscontroller\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|c:\\users\\tarde.cetafest\\documents\\branchsasp\\branchscontrollersln\\branchscontroller\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{980AC8C8-FB80-44B2-88A7-6324927CA9C6}|BranchsController\\BranchsController.csproj|solutionrelative:branchscontroller\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Controllers\\Pais.cs",
+              "RelativeDocumentMoniker": "BranchsController\\Controllers\\Pais.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Controllers\\Pais.cs*",
+              "RelativeToolTip": "BranchsController\\Controllers\\Pais.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:55:13.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PaisDetalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Pais\\PaisDetalhes.cshtml",
+              "RelativeDocumentMoniker": "BranchsController\\Views\\Pais\\PaisDetalhes.cshtml",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Pais\\PaisDetalhes.cshtml*",
+              "RelativeToolTip": "BranchsController\\Views\\Pais\\PaisDetalhes.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T19:52:56.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Pais\\Index.cshtml",
+              "RelativeDocumentMoniker": "BranchsController\\Views\\Pais\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Pais\\Index.cshtml*",
+              "RelativeToolTip": "BranchsController\\Views\\Pais\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T19:52:38.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Cidade\\Index.cshtml",
               "RelativeDocumentMoniker": "BranchsController\\Views\\Cidade\\Index.cshtml",
@@ -38,12 +89,11 @@
               "RelativeToolTip": "BranchsController\\Views\\Cidade\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T19:30:51.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T19:30:51.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Views\\Estado\\Index.cshtml",
               "RelativeDocumentMoniker": "BranchsController\\Views\\Estado\\Index.cshtml",
@@ -56,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Cidade.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Controllers\\Cidade.cs",
               "RelativeDocumentMoniker": "BranchsController\\Controllers\\Cidade.cs",
@@ -64,12 +114,11 @@
               "RelativeToolTip": "BranchsController\\Controllers\\Cidade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T18:51:58.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T18:51:58.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EstadoController.cs",
               "DocumentMoniker": "C:\\Users\\tarde.cetafest\\Documents\\BranchsASP\\BranchsControllerSLN\\BranchsController\\Controllers\\EstadoController.cs",
               "RelativeDocumentMoniker": "BranchsController\\Controllers\\EstadoController.cs",
@@ -77,8 +126,7 @@
               "RelativeToolTip": "BranchsController\\Controllers\\EstadoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T18:48:52.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T18:48:52.204Z"
             }
           ]
         }
